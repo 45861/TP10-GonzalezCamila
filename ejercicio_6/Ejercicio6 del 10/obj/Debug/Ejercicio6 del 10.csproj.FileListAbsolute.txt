@@ -1,0 +1,20 @@
+E:\CANO\Ejercicio6 del 10\Ejercicio6 del 10\bin\Debug\Ejercicio6 del 10.exe.config
+E:\CANO\Ejercicio6 del 10\Ejercicio6 del 10\bin\Debug\Ejercicio6 del 10.exe
+E:\CANO\Ejercicio6 del 10\Ejercicio6 del 10\bin\Debug\Ejercicio6 del 10.pdb
+E:\CANO\Ejercicio6 del 10\Ejercicio6 del 10\obj\Debug\Ejercicio6 del 10.csprojAssemblyReference.cache
+E:\CANO\Ejercicio6 del 10\Ejercicio6 del 10\obj\Debug\Ejercicio6_del_10.Form1.resources
+E:\CANO\Ejercicio6 del 10\Ejercicio6 del 10\obj\Debug\Ejercicio6_del_10.Properties.Resources.resources
+E:\CANO\Ejercicio6 del 10\Ejercicio6 del 10\obj\Debug\Ejercicio6 del 10.csproj.GenerateResource.cache
+E:\CANO\Ejercicio6 del 10\Ejercicio6 del 10\obj\Debug\Ejercicio6 del 10.csproj.CoreCompileInputs.cache
+E:\CANO\Ejercicio6 del 10\Ejercicio6 del 10\obj\Debug\Ejercicio6 del 10.exe
+E:\CANO\Ejercicio6 del 10\Ejercicio6 del 10\obj\Debug\Ejercicio6 del 10.pdb
+F:\CANO\PROYECTO\Trabajos de clases\TP10\ejercicio_6\Ejercicio6 del 10\bin\Debug\Ejercicio6 del 10.exe.config
+F:\CANO\PROYECTO\Trabajos de clases\TP10\ejercicio_6\Ejercicio6 del 10\bin\Debug\Ejercicio6 del 10.exe
+F:\CANO\PROYECTO\Trabajos de clases\TP10\ejercicio_6\Ejercicio6 del 10\bin\Debug\Ejercicio6 del 10.pdb
+F:\CANO\PROYECTO\Trabajos de clases\TP10\ejercicio_6\Ejercicio6 del 10\obj\Debug\Ejercicio6 del 10.csprojAssemblyReference.cache
+F:\CANO\PROYECTO\Trabajos de clases\TP10\ejercicio_6\Ejercicio6 del 10\obj\Debug\Ejercicio6_del_10.Form1.resources
+F:\CANO\PROYECTO\Trabajos de clases\TP10\ejercicio_6\Ejercicio6 del 10\obj\Debug\Ejercicio6_del_10.Properties.Resources.resources
+F:\CANO\PROYECTO\Trabajos de clases\TP10\ejercicio_6\Ejercicio6 del 10\obj\Debug\Ejercicio6 del 10.csproj.GenerateResource.cache
+F:\CANO\PROYECTO\Trabajos de clases\TP10\ejercicio_6\Ejercicio6 del 10\obj\Debug\Ejercicio6 del 10.csproj.CoreCompileInputs.cache
+F:\CANO\PROYECTO\Trabajos de clases\TP10\ejercicio_6\Ejercicio6 del 10\obj\Debug\Ejercicio6 del 10.exe
+F:\CANO\PROYECTO\Trabajos de clases\TP10\ejercicio_6\Ejercicio6 del 10\obj\Debug\Ejercicio6 del 10.pdb
